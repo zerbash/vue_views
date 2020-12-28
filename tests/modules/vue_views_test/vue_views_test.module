@@ -1,0 +1,14 @@
+<?php
+
+/**
+ * Implements hook_theme().
+ */
+function vue_views_test_theme() {
+    return [
+        'vue_views_test' => [
+            'variables' => [
+                'rows' => []
+            ],
+        ],
+    ];
+}

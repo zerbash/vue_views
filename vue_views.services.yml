@@ -1,0 +1,4 @@
+services:
+  plugin.manager.vue_views:
+    class: Drupal\vue_views\Plugin\VueViewsPluginManager
+    parent: default_plugin_manager

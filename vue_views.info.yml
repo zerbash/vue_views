@@ -1,0 +1,5 @@
+name: 'Vue Views'
+type: module
+description: 'A module to allow a Vue application to handle View output'
+core_version_requirement: ^8 || ^9
+package: 'Views'

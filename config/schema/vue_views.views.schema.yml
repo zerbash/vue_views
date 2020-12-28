@@ -1,0 +1,7 @@
+views.style.vue_views:
+  type: views_style
+  label: 'Vue View'
+  mapping:
+    vue_views_plugin:
+      type:  string
+      label: 'Plugin'

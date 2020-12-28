@@ -1,0 +1,8 @@
+name: 'Vue Views Test'
+type: module
+description: 'Support module for Vue View plugin testing'
+version: VERSION
+package: Testing
+dependencies:
+  - views
+  - vue_views

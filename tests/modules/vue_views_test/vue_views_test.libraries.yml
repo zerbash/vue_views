@@ -1,0 +1,4 @@
+vue_views_test:
+  js:
+    https://unpkg.com/vue@next: { type: external, minified: true }
+    js/test.js: {}
