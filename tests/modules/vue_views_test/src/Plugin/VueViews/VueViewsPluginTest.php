@@ -1,6 +1,6 @@
 <?php
 
-namespace Drupal\vue_views_demo\Plugin\VueViews;
+namespace Drupal\vue_views_test\Plugin\VueViews;
 
 use Drupal\vue_views\Plugin\VueViewsPluginPluginBase;
 
